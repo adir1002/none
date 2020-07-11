@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "adirvenv\\Scripts\\python.exe",
+    "python.linting.enabled": true
+}

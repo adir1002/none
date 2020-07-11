@@ -1,0 +1,4 @@
+.env
+/adirenv/
+/.vscode/
+/__pycache__/
